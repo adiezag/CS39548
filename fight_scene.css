@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: navy
+ 
+  color: #000080;
   text-align: center;
 }
-
 a {
   text-decoration: none;
-  color: black
-  background-color: midnightblue
+  color: #FFA500;
+  
   padding: 10px;
 }
 
@@ -15,10 +15,10 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 60%;
 
 }
 
 .link {
-  margin: 10px;
+  margin: 80px;
 }
